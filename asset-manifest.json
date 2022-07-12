@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-nft-landing-page/static/css/main.e6b2744c.css",
+    "main.js": "/react-nft-landing-page/static/js/main.a7ab46c2.js",
+    "static/media/home.png": "/react-nft-landing-page/static/media/home.7fc4253ec840bd813401.png",
+    "static/media/signup.png": "/react-nft-landing-page/static/media/signup.12cb0fcd7fcce38eca10.png",
+    "static/media/release2.png": "/react-nft-landing-page/static/media/release2.d54e21ff9ecf711580c1.png",
+    "static/media/super2.png": "/react-nft-landing-page/static/media/super2.3dd3ef03cdf3bdd7f265.png",
+    "static/media/super4.png": "/react-nft-landing-page/static/media/super4.cb4b74964859a8dd6ecb.png",
+    "static/media/super1.png": "/react-nft-landing-page/static/media/super1.1fbdfb3ac7255099ffbb.png",
+    "static/media/super3.png": "/react-nft-landing-page/static/media/super3.190d195b791351c19c67.png",
+    "index.html": "/react-nft-landing-page/index.html",
+    "main.e6b2744c.css.map": "/react-nft-landing-page/static/css/main.e6b2744c.css.map",
+    "main.a7ab46c2.js.map": "/react-nft-landing-page/static/js/main.a7ab46c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b2744c.css",
+    "static/js/main.a7ab46c2.js"
+  ]
+}
